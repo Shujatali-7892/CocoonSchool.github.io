@@ -1,1 +1,1 @@
-# CocoonSchool.github.io
+# Cocoon.github.io
